@@ -1,0 +1,16 @@
+{
+  "name": "angular-viewport-size",
+  "authors": [
+    "cozmy <cosmin@hyperion.co>"
+  ],
+  "description": "A simple and easy-to-use AngularJS service which gives access to the viewport's height and width.",
+  "main": "viewport-size.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "service",
+    "viewport",
+    "size"
+  ],
+  "license": "MIT"
+}
